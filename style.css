@@ -1,0 +1,66 @@
+ 
+
+.deleteItem{
+
+
+color:red;
+cursor:pointer;
+}	
+
+.editItem{
+	
+	
+color:red;
+cursor:pointer;
+	
+}
+
+.bstyle{
+	width: 283px;
+    height: 49px;
+    background-color: green;
+    margin: 10px
+}   
+
+
+.divstyle{
+
+	margin: 152px;
+    padding: 42px;
+    float: initial;
+}
+
+h1{
+
+	margin: 10px;
+    font-size: -webkit-xxx-large;
+    font-style: italic;
+    font-variant-caps: all-small-caps;
+}
+
+
+
+
+#todos{
+	
+	
+	width: 100%;
+	padding: 10px;
+	
+
+	}
+
+	.coloumn{
+		border: 1px solid #c4c4c4c4;
+	width: 200px;
+    padding: 5px;
+    font-size: 20px;
+    height: 40px;
+    display: inline-block; 
+	
+	
+
+	}
+
+	
+	
